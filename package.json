@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "amqplib": "^0.10.4",
     "axios": "^1.7.7",
     "express": "^4.21.1",
     "websocket": "^1.0.35"
